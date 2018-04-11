@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("message","caojun1");
         Log.e("message","weihuanying1");
+        Log.e("myMessage","master");
     }
 }
