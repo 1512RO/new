@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewTestGit.iml" filepath="$PROJECT_DIR$/NewTestGit.iml" />
+      <module fileurl="file://D:\android\projects\new\NewTestGit.iml" filepath="D:\android\projects\new\NewTestGit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\android\projects\new\app\app.iml" filepath="D:\android\projects\new\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/new.iml" filepath="$PROJECT_DIR$/.idea/new.iml" />
     </modules>
   </component>
 </project>
